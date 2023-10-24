@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "bart",
+    "picture": "Bart_Simpson.webp"
+  },
+  {
+    "id": 2,
+    "name": "homer",
+    "picture": "Homer_Simpson.webp"
+  },
+  {
+    "id": 3,
+    "name": "lisa",
+    "picture": "Lisa_Simpson.webp"
+  },
+  {
+    "id": 4,
+    "name": "marge",
+    "picture": "Marge_Simpson.webp"
+  }
+]
